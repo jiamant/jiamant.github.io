@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.zenmux",
+      "sha256_cert_fingerprints": [
+        "03:4E:ED:30:3D:3E:A0:7B:A7:15:8F:8F:BA:41:5D:6D:1E:60:E9:A7:2D:44:CE:99:B1:E4:DB:F7:58:0E:0E:F7"
+      ]
+    }
+  }
+]
