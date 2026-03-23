@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["8Q6HH8YJAA.app.zenmux"],
+        "components": [
+          {
+            "/": "/",
+            "?": { "token": "*" },
+            "comment": "Match root URL with token query param (email magic link)"
+          }
+        ]
+      }
+    ]
+  }
+}
